@@ -1,2 +1,3 @@
 # PracticeCollab
-Practicing collaboration with ScottJD1989
+The Goal is to practice collaboration with Scott Davidson: ScottJD1989
+
